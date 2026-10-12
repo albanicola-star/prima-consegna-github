@@ -14,6 +14,8 @@
     $perimetro=($base*2)+($altezza*2);
     echo "perimetro:" . $perimetro . "<br>";
 
-
+    $diagonale=0;
+    $diagonale=sqrt(pow($base, 2) + pow($altezza, 2));
+    echo "diagonale:" . $diagonale . "<br>";
 
 ?>

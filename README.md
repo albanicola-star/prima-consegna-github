@@ -1,0 +1,1 @@
+#Esercitazione 12/10/26
